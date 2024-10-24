@@ -1,9 +1,9 @@
 # Azure Cloud-Operations
 
 #Configure Azure Cloud Shell
--Select Powershell Icon
--Select Mount Storage Account
--Select the Subscrition then apply
+Select Powershell Icon
+Select Mount Storage Account
+Select the Subscrition then apply
 
 #Deploy a Virtual Network by using Azure PowerShell cmdlets
 -Create Virtual Network Named VNet1 
